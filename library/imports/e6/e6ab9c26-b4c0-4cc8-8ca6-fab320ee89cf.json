@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "2018-12-05_161226",
+    "texture": "133a27aa-bd79-4b20-a478-1a8349e9e78e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      554,
+      322
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      554,
+      322
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

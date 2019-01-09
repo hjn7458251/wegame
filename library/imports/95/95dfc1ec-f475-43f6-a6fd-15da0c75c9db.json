@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "白条",
+    "texture": "b7bee974-bf39-43a8-b966-98a738be1fd2",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1212,
+      56
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1212,
+      56
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "星星",
+    "texture": "c5b1df64-0866-4702-bd7d-ce09a5f99f16",
+    "atlas": "",
+    "rect": [
+      12,
+      9,
+      28,
+      26
+    ],
+    "offset": [
+      0,
+      1
+    ],
+    "originalSize": [
+      52,
+      46
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "右2",
+    "texture": "77ff01cd-68ab-498f-94ab-4b67ed45a348",
+    "atlas": "",
+    "rect": [
+      3,
+      3,
+      39,
+      71
+    ],
+    "offset": [
+      0.5,
+      -1.5
+    ],
+    "originalSize": [
+      44,
+      74
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

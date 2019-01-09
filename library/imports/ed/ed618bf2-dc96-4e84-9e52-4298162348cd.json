@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "白左3",
+    "texture": "546e41da-4631-4d70-a4ef-935fff4d612b",
+    "atlas": "",
+    "rect": [
+      6,
+      4,
+      41,
+      76
+    ],
+    "offset": [
+      0,
+      -2
+    ],
+    "originalSize": [
+      53,
+      80
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

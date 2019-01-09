@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "白右2",
+    "texture": "07cf4313-caa8-4bec-a5fa-faf80c776089",
+    "atlas": "",
+    "rect": [
+      4,
+      4,
+      39,
+      73
+    ],
+    "offset": [
+      0,
+      -2
+    ],
+    "originalSize": [
+      47,
+      77
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

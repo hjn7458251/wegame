@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "黑条",
+    "texture": "95f1f252-2312-40fb-9ee2-a7d8758fb717",
+    "atlas": "",
+    "rect": [
+      6,
+      6,
+      1211,
+      27
+    ],
+    "offset": [
+      1,
+      3
+    ],
+    "originalSize": [
+      1221,
+      45
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
